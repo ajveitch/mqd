@@ -1,0 +1,19 @@
+Needs to be root to run.
+
+$ sudo million-quid-drop/quiz.py
+
+
+Loosely based on the pygame example in the O'Reilly "Python, PyGame, and Raspberry Pi Game Development" book
+by Sloan Kelly - chaper 23.
+
+Some useful reference URLs below:
+
+https://learning.oreilly.com/library/view/python-pygame-and/9781484245330/html/435550_2_En_23_Chapter.xhtml
+https://gpiozero.readthedocs.io/en/stable/index.html
+https://www.pygame.org/docs/
+
+https://www.reddit.com/r/raspberry_pi/comments/erudaa/gpio_in_my_pygame_python_script/
+
+https://mixkit.co/free-sound-effects/game/
+
+https://scontent.fbhx3-1.fna.fbcdn.net/v/t39.30808-6/241292203_10227045331063105_1520921686311702553_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbeb18&_nc_ohc=jsi4sBtKi5kAX_JMQmB&_nc_ht=scontent.fbhx3-1.fna&oh=5e3fec64c2e2f6d57fefd2d263697966&oe=6137E144

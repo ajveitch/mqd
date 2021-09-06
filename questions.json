@@ -1,0 +1,71 @@
+{
+    "questions": [
+        {
+            "question": "What is the day of the week that follows Sunday?",
+            "answer": "Monday",
+            "answers": [
+                "Wednesday",
+                "Betwixtday",
+                "Friday"
+            ]
+        },
+        {
+            "question": "What temperature is the same in centigrade and fahrenheit?",
+            "answer": "-40",
+            "answers": [
+                "0",
+                "20",
+                "-32"
+            ]
+        },
+        {
+            "question": "Which motorway crosses the Pennines?",
+            "answer": "M62",
+            "answers": [
+                "M1",
+                "M6",
+                "M70"
+            ]
+        },
+        {
+            "question": "Which is NOT a primary colour of light (additive)?",
+            "answer": "Yellow",
+            "answers": [
+                "Red",
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "question": "What are crampons used for?",
+            "answer": "Climbing on ice",
+            "answers": [
+                "Pain relief",
+                "Felling trees"
+            ]
+        },
+        {
+            "question": "Who would wait in a Green Room?",
+            "answer": "Actors",
+            "answers": [
+                "Surgeons",
+                "Members of a jury"
+            ]
+        },
+        {
+            "question": "Which of these is NOT a tooth?",
+            "answer": "Indenture",
+            "answers": [
+                "Incisor",
+                "Molar"
+            ]
+        },
+        {
+            "question": "Who is Master of the Rolls?",
+            "answer": "Second most senior judge in England and Wales",
+            "answers": [
+                "President of the Bakers' Union"
+            ]
+        }
+    ]
+}
