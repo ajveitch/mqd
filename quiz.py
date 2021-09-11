@@ -80,4 +80,10 @@ while game.state != None:
             nextState.onEnter()
         lastState = nextState
     game.draw()
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            game.state = None
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_c and pygame.key.get_mods() & pygame.KMOD_CTRL:
+                game.state = None
 pygame.quit()
